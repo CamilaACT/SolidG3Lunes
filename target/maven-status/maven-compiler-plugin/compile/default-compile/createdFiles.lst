@@ -6,9 +6,9 @@ ocp/NotificationService.class
 ocp/Main.class
 ocp/EmailNotifier.class
 ocp/Notifier.class
-srp/UserValidator.class
 lsp/Fish.class
 lsp/Dog.class
+srp/UserValidator.class
 srp/UserManager.class
 srp/UserRepository.class
 ocp/PushNotifier.class

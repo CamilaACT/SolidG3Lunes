@@ -1,11 +1,16 @@
 /home/runner/workspace/src/main/java/ocp/EmailNotifier.java
+/home/runner/workspace/src/main/java/isp/Phone.java
+/home/runner/workspace/src/main/java/isp/Main.java
 /home/runner/workspace/src/main/java/ocp/Main.java
+/home/runner/workspace/src/main/java/isp/DisposableCamera.java
+/home/runner/workspace/src/main/java/isp/Chargeable.java
 /home/runner/workspace/src/main/java/srp/UserValidator.java
 /home/runner/workspace/src/main/java/ocp/Notifier.java
 /home/runner/workspace/src/main/java/lsp/Main.java
 /home/runner/workspace/src/main/java/srp/UserManager.java
 /home/runner/workspace/src/main/java/lsp/Walker.java
 /home/runner/workspace/src/main/java/ocp/PushNotifier.java
+/home/runner/workspace/src/main/java/isp/Switchable.java
 /home/runner/workspace/src/main/java/lsp/Animal.java
 /home/runner/workspace/src/main/java/lsp/Fish.java
 /home/runner/workspace/src/main/java/ocp/NotificationService.java
